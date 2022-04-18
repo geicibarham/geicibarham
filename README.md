@@ -4,7 +4,7 @@
 
 
 I am a Full Stack Web Developer in the Triangle Area (Raleigh - NC) with a Bachelor’s Degree and 2+ years of professional experience in teaching English as a second language. I am a great communicator who works very well on a team, balancing communication with great listening skills. 
-I am a curious person who loves learning new things, a hard worker who sticks with the work until it is done, and someone who loves traveling and cultures.
+I am a curious person who loves learning new things, a hard worker who keeps working until the job is done, and someone who loves traveling and experiencing different cultures.
 
 
 
