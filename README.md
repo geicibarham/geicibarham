@@ -1,7 +1,7 @@
 ### Hello World, My name is Geiciane! 👋 Nice to virtually meet you! 🙂
 
 
-https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-3bu85lsWhBTlWcOMN6
+https://github.com/geicibarham/geicibarham/blob/main/giphy.gif
 
 
 <!--
