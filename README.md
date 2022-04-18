@@ -1,7 +1,8 @@
 ### Hello World, My name is Geiciane! 👋 Nice to virtually meet you! 🙂
 
 
-https://github.com/geicibarham/geicibarham/blob/main/giphy.gif
+
+![giphy](https://user-images.githubusercontent.com/94714070/163842937-04b5c6fd-9687-43a4-aa66-3d640cba1fbe.gif)
 
 
 <!--
