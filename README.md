@@ -6,8 +6,9 @@
 I am a Full Stack Web Developer in the Triangle Area (Raleigh - NC) with a Bachelor’s Degree and 2+ years of professional experience in teaching English as a second language. I am a great communicator who works very well on a team, balancing communication with great listening skills. 
 I am a curious person who loves learning new things, a hard worker who keeps working until the job is done, and someone who loves traveling and experiencing different cultures.
 
+  <a href="https://instagram.com/thalialietz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  <a href="https://instagram.com/thalialietz" target="_blank"><img src="https://iconscout.com/icon-editor?state=XQAAAALLAAAAAAAAAABt__344_0E5kRU0jdD8oJXhW24foZMZcMjbxoPtOUffqn246eUDIfP2C-2FvYwbxqEvSbfk32RiF70BR9ELKxM-gxt-T7-0g_8011JigPzMzggI9heck7oW3DklqqyQXIJueA4iZtQOOGZeN5u8C3WHbhRfe8X5omTIV149SOn9Gl4kAZOyIe3fF1WKSjpKLKk9BzhfV6-RwrvqcgvNbg7zPref8nv_aD4o8yU2zfg5PbfFKiue7HRu9s37ueb6__YIgAA"  target="_blank"></a>
+  <a href="https://instagram.com/thalialietz" target="_blank"><img src="https://iconscout.com/icon-editor?state=XQAAAALLAAAAAAAAAABt__344_0E5kRU0jdD8oJXhW24foZMZcMjbxoPtOUffqn246eUDIfP2C-2FvYwbxqEvSbfk32RiF70BR9ELKxM-gxt-T7-0g_8011JigPzMzggI9heck7oW3DklqqyQXIJueA4iZtQOOGZeN5u8C3WHbhRfe8X5omTIV149SOn9Gl4kAZOyIe3fF1WKSjpKLKk9BzhfV6-RwrvqcgvNbg7zPref8nv_aD4o8yU2zfg5PbfFKiue7HRu9s37ueb6__YIgAA" target="_blank"></a>
 
 
 <!-- ![Icon](https://user-images.githubusercontent.com/94714070/166166500-682ae543-0b52-471f-b686-c3d278d11b04.png) -->
