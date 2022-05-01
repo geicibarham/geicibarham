@@ -8,10 +8,9 @@ I am a curious person who loves learning new things, a hard worker who keeps wor
 
 
 
- <a href="https://instagram.com/thalialietz" target="_blank"><img src="![Icon](https://user-images.githubusercontent.com/94714070/166166470-d87d157f-5816-49a3-8833-991d0e04f89d.png)" target="_blank"></a>
 
 
-
+![Icon](https://user-images.githubusercontent.com/94714070/166166500-682ae543-0b52-471f-b686-c3d278d11b04.png)
 
 
 
