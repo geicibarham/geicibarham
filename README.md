@@ -1,12 +1,22 @@
 
-<!-- ![alt text](http://url/to/img.png) -->
-
-### Hello World :earth_americas:, My name is Geiciane! 👋 Nice to virtually meet you! 	:smiley:
+![my name and saying hello](https://github.com/geicibarham/geicibarham/blob/main/assets/images/geici.jpg)
 
 
 
 
-I am a Full Stack Web Developer in the Triangle Area (Raleigh - NC) with a Bachelor’s Degree and 2+ years of professional experience in teaching English as a second language. I am a great communicator who works  well on a team, a curious person who loves learning new things, a hard worker who keeps working until the job is done, and someone who loves traveling and experiencing different cultures.
+
+
+
+ <p align="center">👩‍💻 Detail oriented and analytical Full Stack Web Developer that stops at nothing to solve a problem.Values self learning, persistence and drivenness. My previous experience as an English teacher taught me problem solving, communication and team work skills. </p>
+
+
+
+
+![imagem technologies I have used ](https://github.com/geicibarham/geicibarham/blob/main/assets/images/technologies.jpg)
+
+
+
+
 
 
 
