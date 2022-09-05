@@ -5,9 +5,11 @@
 
 
 
-
+<br>
 
  <p align="center">👩‍💻 Detail oriented and analytical Full Stack Web Developer that stops at nothing to solve a problem.Values self learning, persistence and drivenness. My previous experience as an English teacher taught me problem solving, communication and team work skills. </p>
+
+
 
 
 
@@ -25,7 +27,7 @@
 
 
 
-![giphy](https://user-images.githubusercontent.com/94714070/163842937-04b5c6fd-9687-43a4-aa66-3d640cba1fbe.gif)
+
 
 
 <!--
