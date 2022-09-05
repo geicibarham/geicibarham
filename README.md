@@ -1,3 +1,6 @@
+
+<!-- ![alt text](http://url/to/img.png) -->
+
 ### Hello World :earth_americas:, My name is Geiciane! 👋 Nice to virtually meet you! 	:smiley:
 
 
