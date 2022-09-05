@@ -39,7 +39,7 @@
 
 
 
-<h4> Connect With me </h4>
+<h4> Connect with me! </h4>
 
 [<img height="30px" src="https://github.com/geicibarham/geicibarham/blob/main/assets/images/website.png">](https://geicibarham.github.io/)
 [<img height="30px" src="https://github.com/geicibarham/geicibarham/blob/main/assets/images/blue.png">](https://www.linkedin.com/in/geiciane-barham/)
