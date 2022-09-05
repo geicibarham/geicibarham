@@ -7,7 +7,10 @@
 
 <br>
 
- <p align="center">👩‍💻 Detail oriented and analytical Full Stack Web Developer that stops at nothing to solve a problem.Values self learning, persistence and drivenness. My previous experience as an English teacher taught me problem solving, communication and team work skills. </p>
+ <p align="center">
+ 
+  👩‍💻Detail-oriented and analytical Full Stack Web Developer that stops at nothing to solve a problem.Values self-learning, persistence, and drivenness. My previous experience as an English teacher taught me problem-solving, time management, communication, and teamwork skills. 
+  </p>
 
 
 
