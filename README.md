@@ -29,6 +29,14 @@
 
 
 
+<br>
+<h4> When I am not coding I enjoy...</h4>
+
+-🥾 Hiking <br>
+-🚀 Traveling  <br>
+-📚 Learning new stuff  <br>
+-🎮 Gaming  <br>
+
 
 <!--
 **geicibarham/geicibarham** is a ✨ ![Uploading Icon.png…]()
