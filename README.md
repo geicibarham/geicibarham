@@ -41,15 +41,8 @@
 
 <h4> Connect With me </h4>
 
-<br>
-
-
-
-[<img src="https://github.com/geicibarham/geicibarham/blob/main/assets/images/website.png">](https://geicibarham.github.io/)
-
-
-
-[<img src="https://github.com/geicibarham/geicibarham/blob/main/assets/images/blue.png">](https://www.linkedin.com/in/geiciane-barham/)
+[<img height="30px" src="https://github.com/geicibarham/geicibarham/blob/main/assets/images/website.png">](https://geicibarham.github.io/)
+[<img height="30px" src="https://github.com/geicibarham/geicibarham/blob/main/assets/images/blue.png">](https://www.linkedin.com/in/geiciane-barham/)
 
 <!--
 **geicibarham/geicibarham** is a ✨ ![Uploading Icon.png…]()
