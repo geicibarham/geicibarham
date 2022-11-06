@@ -12,9 +12,11 @@
   👩‍💻Detail-oriented and analytical Full Stack Web Developer that stops at nothing to solve a problem.Values self-learning, persistence, and drivenness. My previous experience as an English teacher taught me problem-solving, time management, communication, and teamwork skills. 
   </p>
 
-
-
-
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geicibarham&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geicibarham&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+</div>
+<br>
 
 
 ![imagem technologies I have used ](https://github.com/geicibarham/geicibarham/blob/main/assets/images/technologies.jpg)
@@ -26,6 +28,7 @@
 
 
 <!-- ![Icon](https://user-images.githubusercontent.com/94714070/166166500-682ae543-0b52-471f-b686-c3d278d11b04.png) -->
+
 
 
 
